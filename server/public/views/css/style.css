@@ -1,0 +1,32 @@
+h1{
+    color: #690922;
+}
+.col-md-8{
+    background-color: #E85251;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.col-md-4{
+
+    background-color: #E8134B;
+    border-radius: 25px;
+    padding: 20px;
+
+}
+ul {
+    width: 250px;
+    height: 150px;
+    overflow: scroll;
+    list-style-type: none;
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    padding: 20px;
+}
+
+.jumbotron{
+    background-color: F5144F;
+}
+body{
+    background-color:black;
+}
